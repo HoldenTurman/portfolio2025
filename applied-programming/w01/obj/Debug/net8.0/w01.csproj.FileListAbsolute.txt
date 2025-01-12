@@ -1,0 +1,14 @@
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/bin/Debug/net8.0/w01
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/bin/Debug/net8.0/w01.deps.json
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/bin/Debug/net8.0/w01.runtimeconfig.json
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/bin/Debug/net8.0/w01.dll
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/bin/Debug/net8.0/w01.pdb
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.AssemblyInfoInputs.cache
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.AssemblyInfo.cs
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.csproj.CoreCompileInputs.cache
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.dll
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/refint/w01.dll
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.pdb
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/w01.genruntimeconfig.cache
+/Users/swissholdybear/Desktop/BYUI-Winter2025/applied-programming/w01/obj/Debug/net8.0/ref/w01.dll
